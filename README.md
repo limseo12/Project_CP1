@@ -5,9 +5,14 @@
 
 Project_CP1 첫 협업 프로젝트입니다
 
+데이터 : https://www.vgchartz.com/gamedb/  해외게임사이트에 있는 데이터와 캐글의 videogame 데이터를 합쳤습니다.
+
 맡은 파트 : 여러 회귀 모델들을 찾아 적용하였습니다.\
             많은 회귀모델들을 공부할겸 여러 모델들을 찾아서 적용해 보았습니다.\
             추가작업으로 필요없는 부분을 제거하고 딥러닝 부분을 추가하였습니다.(개인)
+
+비교한 모델 :Linear regression,KNeighborsRegressor,Decision Tree Regressor,RandomForest Regressor,SVM (SVR)
+            XGBoost, LGBM, keras.model
 
 문제점: 현재 모델 성능이 매우 좋지 않은 상태이며 인코딩과 스케일링등 다양한 시도를 하였으나\
         결국 데이터의 문제로 보여짐.\
