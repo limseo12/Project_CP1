@@ -14,11 +14,19 @@ Project_CP1 첫 협업 프로젝트입니다
 비교한 모델 :Linear regression,KNeighborsRegressor,Decision Tree Regressor,RandomForest Regressor,SVM (SVR)
             XGBoost, LGBM, keras.model
 
-문제점: 현재 모델 성능이 매우 좋지 않은 상태이며 인코딩과 스케일링등 다양한 시도를 하였으나\
-        결국 데이터의 문제로 보여짐.\
-        다양한 사이트에서 여러 데이터를 가져와 사용하였기 때문에\
-        데이터가 고르지 못하고 극단값이 많이 존재하여 중앙값으로 모델을\
-        학습시키는 방안을 생각중입니다.
+내용: 커져가는 게임시장의 분야별 수요를 예측하여 게임을 제작하기 위해 머신러닝 모델을 이용하여 분석,예측 하였습니다.
+
+ppt: 
+![image](https://user-images.githubusercontent.com/93918673/214781775-3ca62674-b001-49bb-925a-2ed21e293853.png)
+![image](https://user-images.githubusercontent.com/93918673/214782006-b6667ae0-fcc5-42fd-82da-035988de2ba7.png)
+![image](https://user-images.githubusercontent.com/93918673/214782036-fc20700d-b434-4fd0-b828-39076f9f545e.png)
+![image](https://user-images.githubusercontent.com/93918673/214782054-61812bc1-a838-4b14-a04d-49ed21842928.png)
+![image](https://user-images.githubusercontent.com/93918673/214782074-de38f9b3-a4b0-4beb-88a2-61f5546020ab.png)
+![image](https://user-images.githubusercontent.com/93918673/214782088-1d703c1f-34b7-4024-a4ac-352d86e75749.png)
+![image](https://user-images.githubusercontent.com/93918673/214782108-672f7f4c-cba1-44e5-bf46-2bbb0f668ff6.png)
+![image](https://user-images.githubusercontent.com/93918673/214782134-64ccb5c1-193c-4020-aaea-91e17d54b859.png)
+![image](https://user-images.githubusercontent.com/93918673/214782160-eb87569b-d8c2-4edb-8282-037f951ba786.png)
+
 
 수정한것: 데이터의 기존의 매출단위를 k 에서 m 으로 변경하였었으나 단위가 커져버려 변강하지 않는 쪽으로 하였습니다.\
           라벨 인코딩(머신러닝)과 원핫인코딩(딥러닝)을 모델에 따라 다르게 사용해 보았습니다. 그 뒤 성능을 더 향상시키기 위해\
