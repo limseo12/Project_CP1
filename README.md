@@ -14,7 +14,8 @@ Project_CP1 첫 협업 프로젝트입니다
 비교한 모델 :Linear regression,KNeighborsRegressor,Decision Tree Regressor,RandomForest Regressor,SVM (SVR)
             XGBoost, LGBM, keras.model
 
-내용: 커져가는 게임시장의 분야별 수요를 예측하여 게임을 제작하기 위해 머신러닝 모델을 이용하여 분석,예측 하였습니다.
+내용: 커져가는 게임시장의 분야별 수요를 예측하여 게임회사에서 게임을 제작할때\
+제작의 방향성을 잡기위하여 머신러닝,딥러닝 모델을 이용하여 시장을 분석,예측 하였습니다.
 
 ppt: \
 ![image](https://user-images.githubusercontent.com/93918673/214781775-3ca62674-b001-49bb-925a-2ed21e293853.png)
