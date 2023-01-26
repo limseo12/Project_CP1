@@ -16,7 +16,7 @@ Project_CP1 첫 협업 프로젝트입니다
 
 내용: 커져가는 게임시장의 분야별 수요를 예측하여 게임을 제작하기 위해 머신러닝 모델을 이용하여 분석,예측 하였습니다.
 
-ppt: 
+ppt: \
 ![image](https://user-images.githubusercontent.com/93918673/214781775-3ca62674-b001-49bb-925a-2ed21e293853.png)
 ![image](https://user-images.githubusercontent.com/93918673/214782006-b6667ae0-fcc5-42fd-82da-035988de2ba7.png)
 ![image](https://user-images.githubusercontent.com/93918673/214782036-fc20700d-b434-4fd0-b828-39076f9f545e.png)
